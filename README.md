@@ -11,7 +11,7 @@ Try to find all matching pairs of cards.
 Remember the symbols and their positions.
 Complete the game in the fewest moves and shortest time possible.
 # Demo
-A live demo of the game is available at [Memory Matching Mania Demo](https://abhishek12071.github.io/memory_match_mania/)
+A live demo of the game is available at [Memory Matching Mania Demo](https://arpiii7474.github.io/Memory_Matching_Mania/)
 
 # Technologies Used
 HTML,
